@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -65,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Vitousek, S., P. L. Barnard, P. Limber, L. Erikson, and **B. Cole** (2017)  *A model integrating longshore and cross-shore processes for predicting long-term shoreline response to climate change*, J. Geophys. Res. Earth Surf., 122, 782–806, doi: 10.1002/2016JF004065.
+
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).

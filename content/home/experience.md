@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Environmental Engineer"
+  company = "Naval Information Warfare Center - Pacific"
+  company_url = "https://www.public.navy.mil/navwar/NIWC-Pacific/Pages/default.aspx"
+  location = "San Diego, California"
+  date_start = "2012-06-25"
+  date_end = "2013-09-22"
   description = """
-  Responsibilities include:
+  Responsibilities:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Testing & development of handheld contaminant sensor
+  * CFD simulation of sediment transport processes
+  * Field deployment of benthic microbial fuel cell
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Nearshore Hydrodynamic Modeling Specialist"
+  company = "United States Geological Survey"
+  company_url = "https://www.usgs.gov/centers/pcmsc"
+  location = "Santa Cruz, California"
+  date_start = "2015-06-07"
+  date_end = "2016-02-29"
+  description = """Assisted in the development of a model integrating longshore and cross-shore processes for predicting long-term shoreline response to climate change (CoSMoS)."""
 
+[[experience]]
+  title = "Marine Engineer"
+  company = "Virgin Hyperloop One"
+  company_url = "https://hyperloop-one.com/"
+  location = "Los Angeles, California"
+  date_start = "2015-09-21"
+  date_end = "2018-02-02"
+  description = """Led the marine research program, which was responsible for assessing the feasibility of constructing subsea hyperloop transportation systems contained within submerged floating tunnels (SFTs).
+  
+  Responsibilities:
+  
+  * Hydrodynamic modeling
+  * Statistical analysis and extreme event prediction
+  * Strucutural finite element analysis
+  * Non-linear heat transfer model development
+  """
 +++
