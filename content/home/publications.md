@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Publications"
 subtitle = ""
@@ -67,6 +67,10 @@ subtitle = ""
 +++
 
 Vitousek, S., P. L. Barnard, P. Limber, L. Erikson, and **B. Cole** (2017)  *A model integrating longshore and cross-shore processes for predicting long-term shoreline response to climate change*, J. Geophys. Res. Earth Surf., 122, 782–806, doi: 10.1002/2016JF004065.
+
+**Cole, B.**, M. R. Benjamin, and S. Randeni (2021) *AIS-Based Collision Avoidance in MOOS-IvP using a Geodetic Unscented Kalman Filter*, OCEANS 2021: San Diego – Porto, 2021, pp. 1-10, doi: 10.23919/OCEANS44145.2021.9705900.
+
+**Cole, B**. and G. Schamberg (2022) *Unscented Kalman filter for long-distance vessel tracking in geodetic coordinates*, Applied Ocean Research, 124, doi: 10.1016/j.apor.2022.103205
 
 
 {{% alert note %}}

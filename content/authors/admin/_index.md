@@ -25,8 +25,7 @@ bio: My research interests include marine vehicle autonomy, hydrodynamics, and c
 interests:
 - Marine Vehicle Autonomy
 - Hydrodynamics
-- Adaptive & Robust Control
-- Artificial Intelligence
+- Autonomous Sailing
 
 education:
   courses:
@@ -57,6 +56,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.mit.edu/blerk
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
@@ -73,4 +73,4 @@ user_groups: []
 # - Visitors
 ---
 
-Blake Cole is a doctoral candidate in the **MIT-WHOI Joint Program in Applied Ocean Science and Engineering**.  He is a member of the Laboratory for Autonomous Marine Sensing Systems (LAMSS) at the Massachusetts Institute of Technology, coadvised by Professors Henrik Schmidt and Alexander Slocum.  His research interests include marine vehicle autonomy, hydrodynamics, and feedback control systems.  Specifically, he is interested in developing economical, robust, long-range autonomous surface vehicles, capable of collecting physical, biological, and chemical oceanographic data, over extended periods of time.
+Blake Cole is a doctoral candidate in the **MIT-WHOI Joint Program in Applied Ocean Science and Engineering**.  He is a member of the Laboratory for Autonomous Marine Sensing Systems (LAMSS) at the Massachusetts Institute of Technology, coadvised by Peter Traykovski and Henrik Schmidt.  His research interests include marine vehicle autonomy, hydrodynamics, and feedback control systems.  Specifically, he is interested in developing economical, robust, long-range autonomous surface vehicles, capable of collecting physical, biological, and chemical oceanographic data, over extended periods of time.

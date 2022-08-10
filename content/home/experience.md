@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Nearshore Hydrodynamic Modeling Specialist"
+  title = "Hydrodynamic Modeling Scientist"
   company = "United States Geological Survey"
   company_url = "https://www.usgs.gov/centers/pcmsc"
   location = "Santa Cruz, California"

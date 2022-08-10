@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Languages"
+title = "Programming Languages"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -18,23 +18,23 @@ subtitle = ""
   icon = "terminal"
   icon_pack = "fas"
   name = "C++"
-  description = "80%"
+  description = ""
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "MATLAB"
-  description = "95%"
+  description = ""
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "50%"
+  description = ""
 
 #[[feature]]
 #  icon = "paragraph"
 #  icon_pack = "fas"
 #  name = "LaTeX"
-#  description = "90%"
+#  description = ""
 +++
