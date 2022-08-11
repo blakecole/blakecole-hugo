@@ -23,7 +23,7 @@ baseurl = "https://blakecole.com/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-237319401-1"
 
 ############################
 ## Advanced options below ##
