@@ -157,14 +157,14 @@ Finally, here are a few notes on the animations that might be useful:
 Enjoy!
 
 #### Constant $145^{\circ}$ Heading
-{{< vimeo 737636662 >}}
+{{< vimeo-enhanced id="737636662" start="0m0s" >}}
 \
 Initially, I was curious to see whether there existed a **simple, constant-heading solution** that would deliver a swimmer moving at a constant pace to a desired destination (e.g. Lake Tashmoo).  So I ran a few simulations, and found that a swimmer departing Nobska Beach at 6:18a on the morning of July 30th, 2022, who was able to hold an average 2:00/100yd pace, and a constant heading of 145 degrees, would have quite a pleasant, efficient swim.  At nearly all points throughout the journey, the swimmer's thrust vector is either perpendicular to, or somewhat aligned with, the tidal current vector (non-negative scalar product).  This is ideal, as it means the swimmer is not "fighting" the current.
 
 Unfortunately, this strategy places the swimmer directly in the Steamship Authority's ferry lane for much of the journey across Vineyard Sound.  Efficiency is a delightful thing, but truly nothing compares to the joy and satisfaction one feels when not being run over by a 154 ft ferry capable of producing 9,400 HP thrust, moving at 35 knots.  We needed a different strategy.
 
 #### Forced Transit Through Predefined Waypoints
-{{< vimeo 737637856 >}}
+{{< vimeo-enhanced 737637856 >}}
 \
 Realizing that we needed to first cut southwest across the ferry lane (again, to avoid being run over), before pivoting southeast toward Martha's Vineyard, we selected a set of waypoints that seemed like they would deliver us to our destination.  Unfortunately, this resulted in a much longer swim, both in terms of distance and time.  Following this strategy would also force the swimmers to fight hard against the current over Middle Ground, toward the end of the swim.  Back to the drawing board!
 
@@ -177,23 +177,23 @@ As for the departure times, well... the Chappy Swimmers are a lovely group, but 
 
 Here are the resulting six simulations:
 ##### 6:00a Departure | 1:40/100yd Pace
-{{< vimeo 737626385 >}}
+{{< vimeo-enhanced 737626385 >}}
 {{< figure src="dpt_600_hyb_140_fast_speed.png" id="swim-speed" caption="Swimmer speed over ground (SOG) and speed-through-water.  Ideally, SOG should always be greater than or equal to speed-through-water, indicating that the swimmer is never fighting the current.  In math terms, this *efficiency condition* is achieved by ensuring that that the dot product of swimmer velocity and current velocity is non-negative at each timestep.  For this particular simulation, the efficiency condition is met at every time except $t=1.4~hr$." numbered=true >}}
 
 ##### 6:00a Departure | 2:00/100yd Pace
-{{< vimeo 737624155 >}}
+{{< vimeo-enhanced 737624155 >}}
 
 ##### 6:18a Departure | 1:40/100yd Pace
-{{< vimeo 737634275 >}}
+{{< vimeo-enhanced 737634275 >}}
 
 ##### 6:18a Departure | 2:00/100yd Pace
-{{< vimeo 737629259 >}}
+{{< vimeo-enhanced 737629259 >}}
 
 ##### 6:30a Departure | 1:40/100yd Pace
-{{< vimeo 737635428 >}}
+{{< vimeo-enhanced 737635428 >}}
 
 ##### 6:30a Departure | 2:00/100yd Pace
-{{< vimeo 737634948 >}}
+{{< vimeo-enhanced 737634948 >}}
 
 ### Key Findings
 I think more than anything, these simulations really underscore the extent to which **timing is crucial** for this swim.
@@ -215,7 +215,7 @@ Fortunately, the conditions looked ideal: there was very little wind, and no wav
 
 At 5:58a, it was time to go: each swimmer took a final deep breath, their body weight still supported by the silty sands off Nobska Beach, and dove into the water.  They would touch neither solid ground nor boat for the following two hours.
 
-{{< vimeo 737940441 >}}
+{{< vimeo-enhanced 737940441 >}}
 \
 The swim itself was fortunately quite uneventful for seven out of the ten swimmers.  We settled into a rhythm, and enjoyed the strange solace of gliding through an unfamiliar aquamarine world.  Some of us tripped out a little.  John mentioned that he felt like he was flying through the Cosmos, and my inner dialogue was dominated by a scientifically apocryphal mantra about humans being the descendants of whales.
 
