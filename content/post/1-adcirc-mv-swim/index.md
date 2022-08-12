@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Leveraging the ADCIRC Model to Plan a Long-Distance, Open-Water Swim from Woods Hole to Martha's Vineyard"
 subtitle: ""
 summary: ""
@@ -254,7 +252,9 @@ As mentioned earlier in the **Assumptions & Caveats** section, it is possible th
 The data supports this hypothesis.  One need only to observe the radical easterly deviation in trajectory that occurs just as the swimmers are passing over Middle Ground.  Assuming the swimmers maintained a constant speed-through-water and heading, this deviation can almost certainly be attributed, at least in part, to stronger than expected tidal currents over Middle Ground.
 
 #### Hypothesis \#2: Heading Error
-It is possible that the swimmers were not, in fact, following a 140 degree bearing.  This could have happened if the guide boats themselves attempted to follow a 140 degree bearing, at a pace faster than their swimmers could follow.  This would place them off to the left of their swimmers, compelling the swimmers to follow a more easterly trajectory.
+It is possible that the swimmers were not, in fact, following a $140^{\circ}$ heading.  Lacking terrestrial landmarks, the "objective function" of each swimmer was simply to swim directly toward their guide vessel at all times.  Thus, in order for the swimmers to remain on a fixed $140^{\circ}$ heading, their respective guide boats needed to maintain a $320^{\circ}$ relative bearing to them (say, using a handheld compass).  This is a subtle, but crucial distinction: it is not the instantaneous heading of the guide vessel that matters, but rather, its **relative bearing** to the swimmers, measured with respect to true north.  The figure below illustrates a situation in which a guide vessel is pursuing a $140^{\circ}$ heading, but is nevertheless inadvertently leading its swimmers in a more easterly direction.
+
+{{< figure src="relative-bearing-both.png" id="relative-bearing" caption="Depiction of the importance of **relative bearing** between swimmer and support vessel.  In the left-hand figure, the support vessel is following a $140^{\circ}$ heading; however, the relative bearing from the swimmer to the support vessel is $120^{\circ}$ ($-20^{\circ}$ offset from the target heading of $140^{\circ}$).  In this scenario, the support vessel should observe that its relative bearing to the swimmer is $300^{\circ}$ instead of $320^{\circ}$, and begin clocking around to the right until the relative bearing reads $320^{\circ}$.  This corrected configuration is displayed in the right-hand figure.  Note that the instantaneous, absolute vessel heading is not relevant; only its bearing relative to the swimmers matters." numbered=true >}}
 
 Rob Thieler suggested another potential source of heading error: magnetic declination.  Indeed, in the vicinity of Vineyard Sound, there is a $14^{\circ}~13'~W$ separation between magnetic north (the direction a magnetized compass needle points) and true north (the direction along a meridian, towards the geographic North Pole).  Many marine GNSS systems account for magnetic declination by default, but some do not, and it isn't always easy to determine the active compass mode.  Following a 140 degree bearing relative to magnetic north would place us on a 126 degree bearing relative to true north.
 
