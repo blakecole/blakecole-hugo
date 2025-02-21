@@ -27,19 +27,19 @@ date_format = "Jan 2006"
   description = """
   Responsibilities:
   
-  * Testing & development of handheld contaminant sensor
-  * CFD simulation of sediment transport processes
-  * Field deployment of benthic microbial fuel cell
+  * Testing & development of handheld contaminant sensor.
+  * CFD simulation of sediment transport processes.
+  * Field deployment and retrieval of a benthic microbial fuel cell.
   """
 
 [[experience]]
-  title = "Hydrodynamic Modeling Scientist"
+  title = "Independent Contractor"
   company = "United States Geological Survey"
   company_url = "https://www.usgs.gov/centers/pcmsc"
   location = "Santa Cruz, California"
   date_start = "2015-06-07"
   date_end = "2016-02-29"
-  description = """Assisted in the development of a model integrating longshore and cross-shore processes for predicting long-term shoreline response to climate change (CoSMoS)."""
+  description = """Assisted in the development of a sediment transport model integrating longshore and cross-shore processes for predicting long-term shoreline response to climate change."""
 
 [[experience]]
   title = "Marine Engineer"
@@ -48,13 +48,37 @@ date_format = "Jan 2006"
   location = "Los Angeles, California"
   date_start = "2015-09-21"
   date_end = "2018-02-02"
-  description = """Led the marine research program, which was responsible for assessing the feasibility of constructing subsea hyperloop transportation systems contained within submerged floating tunnels (SFTs).
+  description = """Led the marine research program, which was responsible for assessing the feasibility of constructing subsea hyperloop transportation systems.
   
   Responsibilities:
   
-  * Hydrodynamic modeling
-  * Statistical analysis and extreme event prediction
-  * Strucutural finite element analysis
-  * Non-linear heat transfer model development
+  * Developed multiple regional ocean models driven by wind, wave, and tidal data.
+  * Computed recurrance intervals for extreme sea states based on historical data.
+  * Performed strucutural finite element analysis for various subassemblies.
+  * Formulated requirements and conducted the initial design of a tubular
+thermal expansion joint.
+  * Developed and field-validated a nonlinear heat transfer model for a prototype
+hyperloop system located outside Las Vegas, NV.
   """
+
+[[experience]]
+  title = "Founder, CEO"
+  company = "SeaWing, LLC"
+  company_url = "https://www.seawing.io"
+  location = "Redondo Beach, California"
+  date_start = "2023-10-01"
+  date_end = ""
+  description = """
+  * Building state-of-the-art uncrewed surface vessels for academic research, defense (ISR), and commercial offshore applications.
+  * Consulting for marine vehicle autonomy and design optimization.
+  """
+
+[[experience]]
+  title = "Visiting Oceanography Faculty"
+  company = "Sea Education Association"
+  company_url = "https://sea.edu/"
+  location = "Woods Hole, Massachusetts"
+  date_start = "2023-06-19"
+  date_end = "2024-08-12"
+  description = """Developed lecture materials and planned field trips for a college-level introductory short course in oceanography."""
 +++

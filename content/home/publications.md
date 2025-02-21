@@ -65,13 +65,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Vitousek, S., P. L. Barnard, P. Limber, L. Erikson, and **B. Cole** (2017)  *A model integrating longshore and cross-shore processes for predicting long-term shoreline response to climate change*, J. Geophys. Res. Earth Surf., 122, 782–806, doi: 10.1002/2016JF004065.
-
-**Cole, B.**, M. R. Benjamin, and S. Randeni (2021) *AIS-Based Collision Avoidance in MOOS-IvP using a Geodetic Unscented Kalman Filter*, OCEANS 2021: San Diego – Porto, 2021, pp. 1-10, doi: 10.23919/OCEANS44145.2021.9705900.
+**Cole, B**. (2024) *Wingsail design methodology and performance evaluation metrics for autonomous sailing*, PhD thesis, Massachusetts Institute of Technology, doi: 10.1575/1912/69625
 
 **Cole, B**. and G. Schamberg (2022) *Unscented Kalman filter for long-distance vessel tracking in geodetic coordinates*, Applied Ocean Research, 124, doi: 10.1016/j.apor.2022.103205
 
+**Cole, B.**, M. R. Benjamin, and S. Randeni (2021) *AIS-Based Collision Avoidance in MOOS-IvP using a Geodetic Unscented Kalman Filter*, OCEANS 2021: San Diego – Porto, 2021, pp. 1-10, doi: 10.23919/OCEANS44145.2021.9705900.
+
+Vitousek, S., P. L. Barnard, P. Limber, L. Erikson, and **B. Cole** (2017)  *A model integrating longshore and cross-shore processes for predicting long-term shoreline response to climate change*, J. Geophys. Res. Earth Surf., 122, 782–806, doi: 10.1002/2016JF004065.
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).

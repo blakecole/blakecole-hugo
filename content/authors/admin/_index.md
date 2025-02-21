@@ -20,22 +20,23 @@ organizations:
   url: "https://mit.whoi.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include marine vehicle autonomy, hydrodynamics, and control.
+bio: My research interests include design optimization, marine vehicle autonomy, hydrodynamics, and control.
 
 interests:
+- Design Optimization
 - Marine Vehicle Autonomy
+- Feedback Control Systems
 - Hydrodynamics
-- Autonomous Sailing
 
 education:
   courses:
-  - course: PhD in Applied Ocean Science & Engineering
-    institution: MIT-WHOI Joint Program
-    year: 2017-present
-  - course: MS in Civil & Environmental Engineering
+  - course: Ph.D. in Mechanical Engineering
+    institution: Massachusetts Institute of Technology
+    year: 2024
+  - course: M.S. in Civil & Environmental Engineering
     institution: Stanford University
     year: 2015
-  - course: BSc in Environmental Engineering
+  - course: B.S. in Environmental Engineering
     institution: University of California, San Diego
     year: 2013
 
@@ -59,9 +60,9 @@ social:
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-#- icon: cv
-#  icon_pack: ai
-#  link: files/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +74,4 @@ user_groups: []
 # - Visitors
 ---
 
-Blake Cole is a doctoral candidate in the **MIT-WHOI Joint Program in Applied Ocean Science and Engineering**.  He is a member of the Laboratory for Autonomous Marine Sensing Systems (LAMSS) at the Massachusetts Institute of Technology, coadvised by Peter Traykovski and Henrik Schmidt.  His research interests include marine vehicle autonomy, hydrodynamics, and feedback control systems.  Specifically, he is interested in developing economical, robust, long-range autonomous surface vehicles, capable of collecting meteorological and oceanographic data over extended periods of time.
+Blake Cole received his Ph.D. in Mechanical Engineering from the **Massachusetts Institute of Technology**.  He was part of the MIT-WHOI Joint Program, and was coadvised by Dr. Peter Traykovski and Prof. Henrik Schmidt.  While at MIT, Blake developed a first-of-its-kind design optimization methodology for aerodynamically-actuated wingsails, and validated his approach using a bespoke in-situ data aquisition rig called the _WingDAQ_.  He also made meaningful contributions to the field of marine vehicle autonomy, including a novel instantiation of the unscented Kalman filter that is particularly well-suited to long-distance vessel tracking and collision avoidance.  Moving forward, Blake remains interested in designing, building, and testing new types of uncrewed surface vehicles and flying machines.
