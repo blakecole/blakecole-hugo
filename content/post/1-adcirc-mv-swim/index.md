@@ -2,7 +2,7 @@
 title: "Leveraging the ADCIRC Model to Plan a Long-Distance, Open-Water Swim from Woods Hole to Martha's Vineyard"
 subtitle: ""
 summary: ""
-authors: [Blake Cole]
+authors: [admin]
 tags: []
 categories: []
 date: 2022-08-08T13:09:10-04:00

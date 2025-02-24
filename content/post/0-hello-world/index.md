@@ -4,7 +4,7 @@
 title: "Hello World + Bio"
 subtitle: "An amalgam of words, pictures, etc."
 summary: ""
-authors: [Blake Cole]
+authors: [admin]
 tags: []
 categories: []
 date: 2022-08-08T08:18:13-04:00
@@ -30,9 +30,9 @@ projects: []
 
 ## Hi everyone!
 
-Welcome to my blog.  In case you skipped over the [About](https://www.blakecole.com/) section, my name is Blake, and I am currently a doctoral candidate in the [MIT-WHOI Joint Program](https://mit.whoi.edu/).  My high-level research objective is to **_improve the performance, reliability, and useability of autonomous sailing vessels_**.  I am incredibly excited about this project, and will try to post incremental updates over the course of the next year.
+Welcome to my blog.  In case you skipped over the [About](https://www.blakecole.com/) section, my name is Blake, and I am currently a doctoral candidate in the [MIT-WHOI Joint Program](https://mit.whoi.edu/).  My high-level research objective is to **_improve the performance, reliability, and usability of autonomous sailing vessels_**.  I am incredibly excited about this project, and will try to post incremental updates over the course of the next year.
 
-However, the primary purpose of this blog is not to disseminate my thesis research; rather, I hope it will serve as a repository for discussions about my non-academic interests and side-projects.  I will focus mostly on the projects and experiences I think other people might find useful or illuminating.  Though I will do my best to make sure the information contained herein is as accurate as possible, I might make mistakes, and am counting on you (yes, *you!*) to bring them to my attention.  I will also try to keep these posts consise, but basically anyone who has ever emailed or texted me knows that brevity is not exactly my strong suit.  There's a lot of words out there, and I intend to use them all.
+However, the primary purpose of this blog is not to disseminate my thesis research; rather, I hope it will serve as a repository for discussions about my non-academic interests and side-projects.  I will focus mostly on the projects and experiences I think other people might find useful or illuminating.  Though I will do my best to make sure the information contained herein is as accurate as possible, I might make mistakes, and am counting on you (yes, *you!*) to bring them to my attention.  I will also try to keep these posts concise, but basically anyone who has ever emailed or texted me knows that brevity is not exactly my strong suit.  There's a lot of words out there, and I intend to use them all.
 
 ## Autobiographical Miscellany
 
@@ -41,9 +41,9 @@ In 2013, long before I began learning how to build ocean robots, I wanted to lea
 {{< youtube MX5cKoOm6Pk >}}
 
 \
-Soon thereafter, I began working toward a masters degree at the [Stanford Environental Fluid Mechanics Laboratory](https://cee.stanford.edu/research-impact/labs-centers/bob-and-norma-street-environmental-fluid-mechanics-laboratory-efml), under the tutelage of professors [Stephen Monismith](https://cee.stanford.edu/people/stephen-monismith) and [Oliver Fringer](https://cee.stanford.edu/people/oliver-fringer).  These two teachers really changed my life, and taught me a useful framework for approaching numerical integration problems, and "life problems" more broadly.  I owe them both a debt of gratitude.  
+Soon thereafter, I began working toward a masters degree at the [Stanford Environmental Fluid Mechanics Laboratory](https://cee.stanford.edu/research-impact/labs-centers/bob-and-norma-street-environmental-fluid-mechanics-laboratory-efml), under the tutelage of professors [Stephen Monismith](https://cee.stanford.edu/people/stephen-monismith) and [Oliver Fringer](https://cee.stanford.edu/people/oliver-fringer).  These two teachers really changed my life, and taught me a useful framework for approaching numerical integration problems, and "life problems" more broadly.  I owe them both a debt of gratitude.  
 
-Reaching back even further into the distant past, long before I learned how to build ocean models, I was basically just a kid who loved the ocean.  I grew up in Redondo Beach, CA, and spent most of my teenage years at the beach surfing, swimming, and playing volleyball.  It wasn't until my 3rd year at UCSD that I began seriously considering the possibility of pursuing ocean science as a carreer.
+Reaching back even further into the distant past, long before I learned how to build ocean models, I was basically just a kid who loved the ocean.  I grew up in Redondo Beach, CA, and spent most of my teenage years at the beach surfing, swimming, and playing volleyball.  It wasn't until my 3rd year at UCSD that I began seriously considering the possibility of pursuing ocean science as a career.
 
 Fortunately, the good folks at the Scripps Institution of Oceanography's (SIO) [Coral Reef Ecology Lab](https://coralreefecology.ucsd.edu/about/) gave me a shot, and let me volunteer a few hours per week in the lab.  My PI, [Jen Smith](https://coralreefecology.ucsd.edu/people/#Smith), sponsored my AAUS Scientific Diving training, which was one of the most fun, memorable experiences of my entire life.  I fell in love with the culture, people, and mission at SIO, and my experience there set me off on an ocean science career trajectory upon which I remain comfortably situated today!
 
